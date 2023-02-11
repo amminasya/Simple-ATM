@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ATMTest\ATMTest\bin\Debug\net6.0\ATMTest.exe
+C:\Users\user\source\repos\ATMTest\ATMTest\bin\Debug\net6.0\ATMTest.deps.json
+C:\Users\user\source\repos\ATMTest\ATMTest\bin\Debug\net6.0\ATMTest.runtimeconfig.json
+C:\Users\user\source\repos\ATMTest\ATMTest\bin\Debug\net6.0\ATMTest.dll
+C:\Users\user\source\repos\ATMTest\ATMTest\bin\Debug\net6.0\ATMTest.pdb
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.AssemblyInfo.cs
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.dll
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\refint\ATMTest.dll
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.pdb
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ATMTest.genruntimeconfig.cache
+C:\Users\user\source\repos\ATMTest\ATMTest\obj\Debug\net6.0\ref\ATMTest.dll
